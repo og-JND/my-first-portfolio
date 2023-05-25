@@ -1,1 +1,0 @@
-Congrats, you successfully pulled!
